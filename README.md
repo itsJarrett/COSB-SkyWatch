@@ -1,3 +1,5 @@
+![](https://i.imgur.com/nAdvbT9.gif)
+
 # Pixlet Plane Tracker
 
 COSB SkyWatch is a Pixlet app that allows you to track planes flying over a specific location and display their information, including altitude, tail number, and velocity. It utilizes the OpenSky API to retrieve real-time plane data within a specified radius.
